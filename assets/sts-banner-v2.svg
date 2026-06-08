@@ -1,0 +1,35 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-label="SMART TECH SOLUTIONS banner v2">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#08121F"/>
+      <stop offset="55%" stop-color="#10253D"/>
+      <stop offset="100%" stop-color="#17466E"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8DF5D2"/>
+      <stop offset="100%" stop-color="#46C3FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="520" fill="url(#bg)"/>
+  <circle cx="1330" cy="86" r="138" fill="rgba(70,195,255,0.10)"/>
+  <circle cx="1460" cy="390" r="190" fill="rgba(141,245,210,0.07)"/>
+  <path d="M0 378c147-44 303-61 468-47 150 12 250 52 389 58 156 6 252-31 378-44 124-13 245 1 365 53v122H0V378z" fill="rgba(255,255,255,0.04)"/>
+  <g transform="translate(92 98)" font-family="Segoe UI, Arial, sans-serif">
+    <text x="0" y="18" fill="#8EA6C1" font-size="18" letter-spacing="5">SMART TECH SOLUTIONS</text>
+    <text x="0" y="104" fill="#F4F8FF" font-size="70" font-weight="700">Tecnología diseñada</text>
+    <text x="0" y="180" fill="#F4F8FF" font-size="70" font-weight="700">para crecer contigo</text>
+    <rect x="0" y="212" width="260" height="10" rx="5" fill="url(#line)"/>
+    <text x="0" y="274" fill="#C5D3E2" font-size="28">Equipos, rendimiento y soluciones digitales</text>
+    <text x="0" y="314" fill="#C5D3E2" font-size="28">para negocios modernos y clientes exigentes.</text>
+  </g>
+  <g transform="translate(1130 92)">
+    <rect x="0" y="0" width="292" height="264" rx="30" fill="rgba(8,18,34,0.48)" stroke="rgba(255,255,255,0.10)"/>
+    <rect x="28" y="34" width="102" height="192" rx="22" fill="rgba(255,255,255,0.10)"/>
+    <rect x="42" y="48" width="74" height="164" rx="16" fill="rgba(255,255,255,0.08)"/>
+    <rect x="162" y="44" width="98" height="62" rx="18" fill="rgba(255,255,255,0.09)"/>
+    <rect x="162" y="128" width="98" height="98" rx="20" fill="rgba(255,255,255,0.07)"/>
+    <path d="M182 74h58" stroke="#46C3FF" stroke-width="8" stroke-linecap="round"/>
+    <path d="M178 162c18-12 37-12 56 0" stroke="#8DF5D2" stroke-width="8" stroke-linecap="round" fill="none"/>
+    <path d="M178 186c18-12 37-12 56 0" stroke="rgba(255,255,255,0.45)" stroke-width="8" stroke-linecap="round" fill="none"/>
+  </g>
+</svg>

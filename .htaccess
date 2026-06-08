@@ -1,0 +1,26 @@
+Options -Indexes
+
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+    Header set X-Frame-Options "SAMEORIGIN"
+    Header set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+
+<IfModule mod_authz_core.c>
+    <FilesMatch "^(\.env|\.gitignore|.*\.sql)$">
+        Require all denied
+    </FilesMatch>
+</IfModule>
+
+<IfModule !mod_authz_core.c>
+    <FilesMatch "^(\.env|\.gitignore|.*\.sql)$">
+        Order allow,deny
+        Deny from all
+    </FilesMatch>
+</IfModule>
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    # Bloquea directorios tecnicos que no deben servirse desde el webroot.
+    RewriteRule ^(dev|tmp|scripts|migrations)(/|$) - [F,L]
+</IfModule>

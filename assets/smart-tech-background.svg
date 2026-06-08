@@ -1,0 +1,26 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1200" viewBox="0 0 1800 1200" role="img" aria-label="Smart Tech background">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06111d"/>
+      <stop offset="48%" stop-color="#0d2136"/>
+      <stop offset="100%" stop-color="#153d61"/>
+    </linearGradient>
+  </defs>
+  <rect width="1800" height="1200" fill="url(#bg)"/>
+  <circle cx="1460" cy="140" r="220" fill="rgba(73,198,255,0.08)"/>
+  <circle cx="1380" cy="980" r="260" fill="rgba(138,247,211,0.06)"/>
+  <circle cx="160" cy="980" r="240" fill="rgba(255,255,255,0.03)"/>
+  <g stroke="rgba(255,255,255,0.08)" fill="none">
+    <path d="M0 312c140 54 281 78 421 70 150-9 286-55 445-59 211-5 317 83 517 93 157 8 294-28 417-105"/>
+    <path d="M0 430c122 53 246 79 372 78 182-2 312-66 500-71 207-6 319 85 544 96 138 7 266-18 384-74"/>
+    <path d="M0 556c176 70 341 96 500 83 183-15 320-81 500-72 197 10 304 98 521 97 111 0 204-18 279-46"/>
+  </g>
+  <g fill="rgba(255,255,255,0.06)">
+    <rect x="1110" y="252" width="420" height="238" rx="40"/>
+    <rect x="1170" y="308" width="132" height="132" rx="28"/>
+    <rect x="1336" y="308" width="138" height="38" rx="14"/>
+    <rect x="1336" y="364" width="104" height="28" rx="12"/>
+    <rect x="172" y="144" width="246" height="432" rx="46"/>
+    <rect x="208" y="196" width="174" height="328" rx="30" fill="rgba(255,255,255,0.04)"/>
+  </g>
+</svg>

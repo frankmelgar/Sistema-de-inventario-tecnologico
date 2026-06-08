@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="100" y1="40" x2="1470" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071426"/>
+      <stop offset="0.55" stop-color="#0D2745"/>
+      <stop offset="1" stop-color="#103D68"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="1100" y1="130" x2="1490" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4FDDFF" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#158CFF" stop-opacity="0.25"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="560" rx="44" fill="url(#bg)"/>
+  <circle cx="1320" cy="160" r="150" fill="url(#glow)"/>
+  <circle cx="1440" cy="450" r="110" fill="#66E3FF" fill-opacity="0.12"/>
+  <circle cx="1160" cy="430" r="72" fill="#66E3FF" fill-opacity="0.08"/>
+  <path d="M0 430C180 372 332 364 458 388C598 414 724 468 860 468C1046 468 1188 334 1600 360V560H0V430Z" fill="#09192F" fill-opacity="0.42"/>
+  <rect x="102" y="104" width="146" height="146" rx="34" fill="rgba(255,255,255,0.05)"/>
+  <rect x="126" y="128" width="98" height="98" rx="26" fill="#0F223A"/>
+  <rect x="148" y="150" width="22" height="54" rx="11" fill="#74E7FF"/>
+  <rect x="180" y="150" width="22" height="54" rx="11" fill="#B4F3FF"/>
+  <text x="100" y="318" fill="#F4FBFF" font-family="'Segoe UI', Arial, sans-serif" font-size="72" font-weight="800">Tecnología profesional</text>
+  <text x="100" y="398" fill="#F4FBFF" font-family="'Segoe UI', Arial, sans-serif" font-size="72" font-weight="800">para vender con confianza</text>
+  <text x="100" y="462" fill="#A8C7DC" font-family="'Segoe UI', Arial, sans-serif" font-size="28" font-weight="500">Catálogo premium, marcas reconocidas y una experiencia lista para presentar a clientes.</text>
+</svg>

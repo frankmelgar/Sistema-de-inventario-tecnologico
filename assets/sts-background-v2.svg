@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1200" viewBox="0 0 1800 1200" role="img" aria-label="Smart Tech background v2">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06111C"/>
+      <stop offset="48%" stop-color="#0D2035"/>
+      <stop offset="100%" stop-color="#153C60"/>
+    </linearGradient>
+  </defs>
+  <rect width="1800" height="1200" fill="url(#bg)"/>
+  <circle cx="1460" cy="120" r="220" fill="rgba(70,195,255,0.08)"/>
+  <circle cx="1370" cy="970" r="250" fill="rgba(141,245,210,0.06)"/>
+  <circle cx="120" cy="1000" r="240" fill="rgba(255,255,255,0.03)"/>
+  <g stroke="rgba(255,255,255,0.07)" fill="none">
+    <path d="M0 320c154 55 311 79 470 68 170-11 300-61 474-62 202-2 313 82 503 93 123 7 242-17 353-76"/>
+    <path d="M0 448c140 58 285 86 434 83 181-3 316-72 500-70 207 3 311 90 528 96 117 3 228-17 338-58"/>
+    <path d="M0 574c188 76 369 105 541 91 183-16 320-86 493-73 180 13 280 87 489 95 105 4 198-10 277-34"/>
+  </g>
+</svg>

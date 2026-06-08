@@ -1,0 +1,11 @@
+{
+  "files.exclude": {
+    "**/__tmp_*.php": true
+  },
+  "search.exclude": {
+    "**/__tmp_*.php": true
+  },
+  "files.watcherExclude": {
+    "**/__tmp_*.php": true
+  }
+}

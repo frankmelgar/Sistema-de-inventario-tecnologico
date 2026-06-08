@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="720" height="180" viewBox="0 0 720 180" role="img" aria-label="SMART TECH SOLUTIONS">
+  <defs>
+    <linearGradient id="stsAccent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8CF6D4"/>
+      <stop offset="100%" stop-color="#44C4FF"/>
+    </linearGradient>
+    <linearGradient id="stsPanel" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0C1625"/>
+      <stop offset="100%" stop-color="#14324F"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="180" fill="transparent"/>
+  <g transform="translate(10 10)">
+    <rect x="0" y="0" width="160" height="160" rx="38" fill="url(#stsPanel)"/>
+    <rect x="22" y="22" width="116" height="116" rx="28" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="2"/>
+    <path d="M49 58c0-12 10-22 22-22h27c23 0 40 16 40 38 0 12-5 22-13 29 12 7 20 19 20 35 0 23-18 40-42 40H71c-12 0-22-10-22-22V58zm33 7v26h23c9 0 15-6 15-14s-6-12-15-12H82zm0 53v31h26c11 0 18-6 18-16s-7-15-18-15H82z" fill="url(#stsAccent)"/>
+    <circle cx="124" cy="52" r="7" fill="#8CF6D4"/>
+    <circle cx="136" cy="70" r="4" fill="#44C4FF"/>
+  </g>
+  <g transform="translate(200 52)" font-family="Segoe UI, Arial, sans-serif">
+    <text x="0" y="34" fill="#F1F7FF" font-size="50" font-weight="700" letter-spacing="1">SMART TECH</text>
+    <text x="0" y="82" fill="url(#stsAccent)" font-size="38" font-weight="700" letter-spacing="4">SOLUTIONS</text>
+    <text x="0" y="118" fill="#8EA6C1" font-size="18" letter-spacing="3">TECH STORE · BUSINESS DEVICES · MODERN SOLUTIONS</text>
+  </g>
+</svg>
